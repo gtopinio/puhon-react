@@ -1,0 +1,26 @@
+.create-search-segment {
+    border-radius: 25px;
+    background: white;
+    padding: 20px;
+    width: 920px;
+    height: 90px;
+    float: top;
+    margin: 20px;
+}
+  
+  
+#create-search-area {
+resize: none;
+position: relative;
+bottom: 60px;
+left: 70px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#create-search-button {
+position: relative;
+bottom: 30px;
+left: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}

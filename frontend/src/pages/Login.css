@@ -1,0 +1,17 @@
+#l-formField {
+    position: relative;
+    width:0px;
+    margin: auto;
+    top: 150px;
+}
+
+.home-bg {
+    position:absolute;
+    height: 720px;
+    width: 1520px;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: local('Courgette'), url(./fonts/Courgette-Regular.ttf) format('truetype');
+}

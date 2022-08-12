@@ -1,0 +1,25 @@
+/* Rounded Border Reference: https://www.w3schools.com/css/css3_borders.asp */
+.r-User-segment {
+    border-radius: 25px;
+    background: #b1e1c0;
+    padding: 20px;
+    width: 920px;
+    height: 150px;
+    float: top;
+    margin: 20px;
+}
+
+#r-add-friend-button {
+    position: relative;
+    float: right;
+    top: -170px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+#r-remove-request-button {
+position: relative;
+float: right;
+left: -5px;
+top: -170px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,41 @@
+.puhon-header {
+    color: #65350F;
+    font-size: 100px;
+    position: absolute;
+    left: 36%;
+    top: 27%;
+}
+
+.s-btn {
+    font-family: "Raleway", sans-serif;
+    color: #65350F;
+    font-size: 25px;
+    position: absolute;
+    left: 48%;
+    top: 56%;
+}
+
+.l-btn {
+    font-family: "Raleway", sans-serif;
+    color: #65350F;
+    font-size: 25px;
+    position: absolute;
+    left: 48.5%;
+    top: 62.5%;
+}
+
+.home-bg {
+    position:relative;
+    height: 720px;
+    width: 1520px;
+}
+
+@font-face {
+    font-family: 'Ruthie';
+    src: local('Ruthie'), url(./fonts/Ruthie-Regular.ttf) format('truetype');
+}
+
+@font-face {
+font-family: 'Courgette';
+src: local('Courgette'), url(./fonts/Courgette-Regular.ttf) format('truetype');
+}
